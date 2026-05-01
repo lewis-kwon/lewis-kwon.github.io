@@ -1,0 +1,31 @@
+---
+title-block: false
+description: "Curriculum vitae for Lewis Kwon."
+---
+
+# CV
+
+[Download CV](files/cv-lewis-kwon-public.pdf){.btn .btn-primary}
+
+## Position
+
+Senior Deputy Director, Division of Infectious Disease Control, KDCA  
+Aug. 2025-Present
+
+## Education
+
+- Ph.D. Public Policy, KDI School of Public Policy and Management, 2025  
+  *Dissertation: Three Essays on Immunization: Impact, Perception, and the Decision-Making Process*
+- MBA, Rotterdam School of Management, Erasmus University, 2018
+- Master of Development Policy, KDI School of Public Policy and Management, 2017
+- B.A. Economics and English, Handong Global University, 2008
+
+## Fields of Expertise
+
+Viral hepatitis elimination; immunization policy; adult vaccination; epidemic intelligence; surveillance-system integration; emergency response governance; vaccine hesitancy; public health decision-making; global health security capacity-building.
+
+## Awards
+
+- KDCA Commissioner's Award, 2025
+- Order of Civil Merit by the President of Korea, Sierra Leone Ebola response contribution, 2015
+- Health and Welfare Minister's Award, 2007

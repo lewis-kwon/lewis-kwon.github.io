@@ -1,0 +1,26 @@
+---
+title-block: false
+description: "권승현의 개인 웹사이트."
+---
+
+::: {.hero .compact}
+::: {.hero-copy}
+# 권승현
+
+**질병관리청 감염병관리과 서기관**  
+세종, 대한민국
+
+현재 질병관리청 감염병관리과 서기관으로 감염병 관리, 국제보건, 국가예방접종사업 분야에서 일해 왔습니다. 지금은 바이러스 간염 예방·관리 업무를 맡아 WHO의 2030년 퇴치 목표 달성을 뒷받침하고 있으며, 근거에 기반한 예방접종 전략을 세우고 공중보건 현안에 대응하는 일에 강점이 있습니다. 앞으로도 백신 사업과 감염병 예방을 중심으로 협력과 근거 기반 정책을 통해 국제 보건안보 증진에 힘쓰고자 합니다.
+
+::: {.button-row}
+[CV](../files/cv-lewis-kwon-public.pdf){.btn .btn-primary}
+[주요 논문](publications.qmd){.btn .btn-outline-primary}
+[연락처](contact.qmd){.btn .btn-outline-primary}
+[English](../index.qmd){.btn .btn-outline-secondary}
+:::
+:::
+
+::: {.hero-image}
+![](../images/profile.png){fig-alt="Lewis Kwon profile photo"}
+:::
+:::

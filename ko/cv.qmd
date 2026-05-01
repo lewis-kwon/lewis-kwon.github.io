@@ -1,0 +1,35 @@
+---
+title-block: false
+description: "권승현의 이력서."
+---
+
+::: {.language-switch}
+[English](../cv.qmd)
+:::
+
+# CV
+
+[CV 다운로드](../files/cv-lewis-kwon-public.pdf){.btn .btn-primary}
+
+## 직위
+
+Senior Deputy Director, Division of Infectious Disease Control, KDCA  
+Aug. 2025-Present
+
+## 학력
+
+- Ph.D. Public Policy, KDI School of Public Policy and Management, 2025  
+  *Dissertation: Three Essays on Immunization: Impact, Perception, and the Decision-Making Process*
+- MBA, Rotterdam School of Management, Erasmus University, 2018
+- Master of Development Policy, KDI School of Public Policy and Management, 2017
+- B.A. Economics and English, Handong Global University, 2008
+
+## 전문 분야
+
+Viral hepatitis elimination; immunization policy; adult vaccination; epidemic intelligence; surveillance-system integration; emergency response governance; vaccine hesitancy; public health decision-making; global health security capacity-building.
+
+## 수상
+
+- KDCA Commissioner's Award, 2025
+- Order of Civil Merit by the President of Korea, Sierra Leone Ebola response contribution, 2015
+- Health and Welfare Minister's Award, 2007

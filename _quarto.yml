@@ -1,0 +1,63 @@
+project:
+  type: website
+  output-dir: docs
+  render:
+    - "*.qmd"
+    - "ko/*.qmd"
+  resources:
+    - ".nojekyll"
+
+website:
+  title: "Lewis Kwon"
+  site-url: "https://lewis-kwon.github.io"
+  description: "Personal website of Lewis Kwon."
+  navbar:
+    background: white
+    foreground: "#1f2937"
+    pinned: true
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "Publications"
+        href: publications.qmd
+      - text: "Invited Presentations & Lectures"
+        href: presentations.qmd
+      - text: "CV"
+        href: cv.qmd
+      - text: "Contact"
+        href: contact.qmd
+    right:
+      - text: "한국어"
+        menu:
+          - text: "홈"
+            href: ko/index.qmd
+          - text: "논문"
+            href: ko/publications.qmd
+          - text: "초청 발표 및 강의"
+            href: ko/presentations.qmd
+          - text: "CV"
+            href: ko/cv.qmd
+          - text: "연락처"
+            href: ko/contact.qmd
+  page-footer:
+    left: "© Lewis Kwon"
+    right:
+      - text: "English"
+        href: index.qmd
+      - text: "한국어"
+        href: ko/index.qmd
+  search: false
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
+    smooth-scroll: true
+    link-external-newwindow: true
+    include-in-header:
+      text: |
+        <meta name="robots" content="index, follow">
+
+execute:
+  freeze: auto

@@ -1,0 +1,216 @@
+Terminating existing preview server....DONE
+
+Preparing to preview
+
+Watching files for changes
+Browse at http://localhost:4200/
+Listening on http://127.0.0.1:4200/
+pandoc 
+  to: html
+  output-file: index.html
+  standalone: true
+  title-prefix: Lewis Kwon
+  section-divs: true
+  html-math-method: mathjax
+  wrap: none
+  default-image-extension: png
+  css:
+    - styles.css
+  toc: false
+  variables: {}
+  
+metadata
+  document-css: false
+  link-citations: true
+  date-format: long
+  lang: en
+  engines:
+    - path: C:\Users\haram\AppData\Local\Programs\Quarto\share\extension-subtrees\julia-engine\_extensions\julia-engine\julia-engine.js
+  theme: cosmo
+  smooth-scroll: true
+  title: Lewis Kwon
+  description: Lewis Kwon, Senior Deputy Director at the Korea Disease Control and Prevention Agency.
+  
+[33mWARNING (C:/Users/haram/AppData/Local/Programs/Quarto/share/filters/main.lua:10085) 
+The following string was found in the document: :::
+
+This usually indicates a problem with a fenced div in the document. Please check the document for errors.
+[39m[33mWARNING (C:/Users/haram/AppData/Local/Programs/Quarto/share/filters/main.lua:10085) 
+The following string was found in the document: :::
+
+This usually indicates a problem with a fenced div in the document. Please check the document for errors.
+[39m[33mWARNING (C:/Users/haram/AppData/Local/Programs/Quarto/share/filters/main.lua:10085) 
+The following string was found in the document: :::
+
+This usually indicates a problem with a fenced div in the document. Please check the document for errors.
+[39m[33mWARNING (C:/Users/haram/AppData/Local/Programs/Quarto/share/filters/main.lua:10085) 
+The following string was found in the document: :::
+
+This usually indicates a problem with a fenced div in the document. Please check the document for errors.
+[39m[1/7] contact.qmd
+WARN: Unable to resolve link target: research.qmd
+WARN: Unable to resolve link target: teaching.qmd
+WARN: Unable to resolve link target: talks.qmd
+WARN: Unable to resolve link target: ko/research.qmd
+WARN: Unable to resolve link target: ko/teaching.qmd
+WARN: Unable to resolve link target: ko/talks.qmd
+[2/7] cv.qmd
+WARN: Unable to resolve link target: research.qmd
+WARN: Unable to resolve link target: teaching.qmd
+WARN: Unable to resolve link target: talks.qmd
+WARN: Unable to resolve link target: ko/research.qmd
+WARN: Unable to resolve link target: ko/teaching.qmd
+WARN: Unable to resolve link target: ko/talks.qmd
+[3/7] ko\contact.qmd
+WARN: Unable to resolve link target: research.qmd
+WARN: Unable to resolve link target: teaching.qmd
+WARN: Unable to resolve link target: talks.qmd
+WARN: Unable to resolve link target: ko/research.qmd
+WARN: Unable to resolve link target: ko/teaching.qmd
+WARN: Unable to resolve link target: ko/talks.qmd
+[4/7] ko\cv.qmd
+WARN: Unable to resolve link target: research.qmd
+WARN: Unable to resolve link target: teaching.qmd
+WARN: Unable to resolve link target: talks.qmd
+WARN: Unable to resolve link target: ko/research.qmd
+WARN: Unable to resolve link target: ko/teaching.qmd
+WARN: Unable to resolve link target: ko/talks.qmd
+[5/7] ko\index.qmd
+WARN: Unable to resolve link target: research.qmd
+WARN: Unable to resolve link target: teaching.qmd
+WARN: Unable to resolve link target: talks.qmd
+WARN: Unable to resolve link target: ko/research.qmd
+WARN: Unable to resolve link target: ko/teaching.qmd
+WARN: Unable to resolve link target: ko/talks.qmd
+[6/7] ko\publications.qmd
+WARN: Unable to resolve link target: research.qmd
+WARN: Unable to resolve link target: teaching.qmd
+WARN: Unable to resolve link target: talks.qmd
+WARN: Unable to resolve link target: ko/research.qmd
+WARN: Unable to resolve link target: ko/teaching.qmd
+WARN: Unable to resolve link target: ko/talks.qmd
+[7/7] publications.qmd
+WARN: Unable to resolve link target: research.qmd
+WARN: Unable to resolve link target: teaching.qmd
+WARN: Unable to resolve link target: talks.qmd
+WARN: Unable to resolve link target: ko/research.qmd
+WARN: Unable to resolve link target: ko/teaching.qmd
+WARN: Unable to resolve link target: ko/talks.qmd
+
+[1/2] ko\teaching-talks.qmd
+[2/2] teaching-talks.qmd
+
+[1/2] index.qmd
+ERROR: BadResource: Bad resource ID
+
+Stack trace:
+    at Kv.get (ext:deno_kv/01_db.ts:57:34)
+    at SassCache.getFromHash (file:///C:/Users/haram/AppData/Local/Programs/Quarto/bin/quarto.js:80018:39)
+    at SassCache.getOrSet (file:///C:/Users/haram/AppData/Local/Programs/Quarto/bin/quarto.js:80082:37)
+    at eventLoopTick (ext:core/01_core.js:218:9)
+    at async compileSass (file:///C:/Users/haram/AppData/Local/Programs/Quarto/bin/quarto.js:87429:19)
+    at async resolveSassBundles (file:///C:/Users/haram/AppData/Local/Programs/Quarto/bin/quarto.js:125158:17)
+    at async resolveExtras (file:///C:/Users/haram/AppData/Local/Programs/Quarto/bin/quarto.js:129822:14)
+    at async runPandoc (file:///C:/Users/haram/AppData/Local/Programs/Quarto/bin/quarto.js:129246:20)
+    at async renderPandoc (file:///C:/Users/haram/AppData/Local/Programs/Quarto/bin/quarto.js:130931:24)
+    at async Object.onRender (file:///C:/Users/haram/AppData/Local/Programs/Quarto/bin/quarto.js:136874:30)
+[1/2] index.qmd
+[2/2] publications.qmd
+
+[1/6] contact.qmd
+ERROR: BadResource: Bad resource ID
+
+Stack trace:
+    at Kv.get (ext:deno_kv/01_db.ts:57:34)
+    at SassCache.getFromHash (file:///C:/Users/haram/AppData/Local/Programs/Quarto/bin/quarto.js:80018:39)
+    at SassCache.getOrSet (file:///C:/Users/haram/AppData/Local/Programs/Quarto/bin/quarto.js:80082:37)
+    at eventLoopTick (ext:core/01_core.js:218:9)
+    at async compileSass (file:///C:/Users/haram/AppData/Local/Programs/Quarto/bin/quarto.js:87429:19)
+    at async resolveSassBundles (file:///C:/Users/haram/AppData/Local/Programs/Quarto/bin/quarto.js:125158:17)
+    at async resolveExtras (file:///C:/Users/haram/AppData/Local/Programs/Quarto/bin/quarto.js:129822:14)
+    at async runPandoc (file:///C:/Users/haram/AppData/Local/Programs/Quarto/bin/quarto.js:129246:20)
+    at async renderPandoc (file:///C:/Users/haram/AppData/Local/Programs/Quarto/bin/quarto.js:130931:24)
+    at async Object.onRender (file:///C:/Users/haram/AppData/Local/Programs/Quarto/bin/quarto.js:136874:30)
+[1/2] index.qmd
+ERROR: BadResource: Bad resource ID
+
+Stack trace:
+    at Kv.get (ext:deno_kv/01_db.ts:57:34)
+    at SassCache.getFromHash (file:///C:/Users/haram/AppData/Local/Programs/Quarto/bin/quarto.js:80018:39)
+    at SassCache.getOrSet (file:///C:/Users/haram/AppData/Local/Programs/Quarto/bin/quarto.js:80082:37)
+    at eventLoopTick (ext:core/01_core.js:218:9)
+    at async compileSass (file:///C:/Users/haram/AppData/Local/Programs/Quarto/bin/quarto.js:87429:19)
+    at async resolveSassBundles (file:///C:/Users/haram/AppData/Local/Programs/Quarto/bin/quarto.js:125158:17)
+    at async resolveExtras (file:///C:/Users/haram/AppData/Local/Programs/Quarto/bin/quarto.js:129822:14)
+    at async runPandoc (file:///C:/Users/haram/AppData/Local/Programs/Quarto/bin/quarto.js:129246:20)
+    at async renderPandoc (file:///C:/Users/haram/AppData/Local/Programs/Quarto/bin/quarto.js:130931:24)
+    at async Object.onRender (file:///C:/Users/haram/AppData/Local/Programs/Quarto/bin/quarto.js:136874:30)
+pandoc 
+  to: html
+  output-file: publications.html
+  standalone: true
+  title-prefix: Lewis Kwon
+  section-divs: true
+  html-math-method: mathjax
+  wrap: none
+  default-image-extension: png
+  css:
+    - ../styles.css
+  toc: false
+  variables: {}
+  
+metadata
+  document-css: false
+  link-citations: true
+  date-format: long
+  lang: en
+  engines:
+    - path: C:\Users\haram\AppData\Local\Programs\Quarto\share\extension-subtrees\julia-engine\_extensions\julia-engine\julia-engine.js
+  theme: cosmo
+  smooth-scroll: true
+  description: 권승현의 주요 논문.
+  
+pandoc 
+  to: html
+  output-file: index.html
+  standalone: true
+  title-prefix: Lewis Kwon
+  section-divs: true
+  html-math-method: mathjax
+  wrap: none
+  default-image-extension: png
+  css:
+    - styles.css
+  toc: false
+  variables: {}
+  
+metadata
+  pagetitle: Lewis Kwon
+  document-css: false
+  link-citations: true
+  date-format: long
+  lang: en
+  engines:
+    - path: C:\Users\haram\AppData\Local\Programs\Quarto\share\extension-subtrees\julia-engine\_extensions\julia-engine\julia-engine.js
+  theme: cosmo
+  smooth-scroll: true
+  title-block: false
+  description: Personal website of Lewis Kwon.
+  
+[1/7] contact.qmd
+ERROR: BadResource: Bad resource ID
+
+Stack trace:
+    at Kv.get (ext:deno_kv/01_db.ts:57:34)
+    at SassCache.getFromHash (file:///C:/Users/haram/AppData/Local/Programs/Quarto/bin/quarto.js:80018:39)
+    at SassCache.getOrSet (file:///C:/Users/haram/AppData/Local/Programs/Quarto/bin/quarto.js:80082:37)
+    at eventLoopTick (ext:core/01_core.js:218:9)
+    at async compileSass (file:///C:/Users/haram/AppData/Local/Programs/Quarto/bin/quarto.js:87429:19)
+    at async resolveSassBundles (file:///C:/Users/haram/AppData/Local/Programs/Quarto/bin/quarto.js:125158:17)
+    at async resolveExtras (file:///C:/Users/haram/AppData/Local/Programs/Quarto/bin/quarto.js:129822:14)
+    at async runPandoc (file:///C:/Users/haram/AppData/Local/Programs/Quarto/bin/quarto.js:129246:20)
+    at async renderPandoc (file:///C:/Users/haram/AppData/Local/Programs/Quarto/bin/quarto.js:130931:24)
+    at async Object.onRender (file:///C:/Users/haram/AppData/Local/Programs/Quarto/bin/quarto.js:136874:30)
+[1/2] ko\presentations.qmd
+[2/2] presentations.qmd
+

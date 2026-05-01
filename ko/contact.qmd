@@ -1,0 +1,32 @@
+---
+title-block: false
+description: "권승현 연락처."
+---
+
+::: {.language-switch}
+[English](../contact.qmd)
+:::
+
+# 연락처
+
+::: {.contact-panel}
+::: {.contact-row}
+**이메일**  
+[lewis.kwon@kdis.ac.kr](mailto:lewis.kwon@kdis.ac.kr)
+:::
+
+::: {.contact-row}
+**LinkedIn**  
+[linkedin.com/in/lewiskwon](https://linkedin.com/in/lewiskwon)
+:::
+
+::: {.contact-row}
+**ORCID**  
+[0000-0002-0113-0179](https://orcid.org/0000-0002-0113-0179)
+:::
+
+::: {.contact-row}
+**Google Scholar**  
+[Scholar profile](https://scholar.google.com/citations?user=6VV6TF4AAAAJ&hl=ko)
+:::
+:::

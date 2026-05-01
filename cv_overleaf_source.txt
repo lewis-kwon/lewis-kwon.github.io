@@ -1,0 +1,161 @@
+% !TEX program = xelatex
+\documentclass[11pt]{article}
+
+\usepackage[a4paper,margin=0.82in]{geometry}
+\usepackage{iftex}
+\ifPDFTeX
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+  \usepackage{lmodern}
+  \newcommand{\kname}{Seunghyun Kwon}
+\else
+  \usepackage{fontspec}
+  \usepackage{xeCJK}
+  \setmainfont{TeXGyreTermes}
+  \setCJKmainfont{Noto Serif CJK KR}
+  \newcommand{\kname}{권승현}
+\fi
+\usepackage{enumitem}
+\usepackage[hidelinks]{hyperref}
+\usepackage{microtype}
+\usepackage{titlesec}
+\usepackage{setspace}
+\usepackage{needspace}
+\usepackage{tabularx}
+
+\pagestyle{empty}
+\raggedbottom
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{3.5pt}
+\setstretch{1.08}
+
+\titleformat{\section}{\large\bfseries}{}{0pt}{}[\vspace{2pt}\titlerule]
+\titlespacing*{\section}{0pt}{16pt}{8pt}
+
+\setlist[itemize]{leftmargin=1.35em, topsep=4pt, itemsep=3.5pt, parsep=0pt, partopsep=0pt}
+
+\newcommand{\updateddate}{May 2026}
+\newcommand{\cvsection}[1]{\Needspace{6\baselineskip}\section*{#1}}
+\newcommand{\cvitem}[2]{\textbf{#1} \hfill #2\par}
+\newcommand{\role}[3]{%
+    \textbf{#1} \hfill #2\\%
+    \textit{#3}\par
+}
+
+\newcommand{\cvline}[2]{%
+    \noindent #1 \hfill #2\par
+}
+
+\newcommand{\pubyear}[1]{\vspace{6pt}\textbf{#1}\par\vspace{1pt}}
+\newcommand{\talkitem}[3]{%
+  \item
+  \begin{tabular*}{\linewidth}{@{}p{0.77\linewidth}@{\extracolsep{\fill}}r@{}}
+  \textbf{#1} & #3
+  \end{tabular*}\\[-1pt]
+  #2
+}
+
+\begin{document}
+
+{\small\hfill Updated: \updateddate}
+\vspace{-3pt}
+
+\begin{center}
+    {\LARGE \textbf{Seunghyun Lewis Kwon, Ph.D.}}\\[2pt]
+    Sejong, Republic of Korea\\[5pt]
+    \href{mailto:haramkwon@korea.kr}{lewis.kwon@kdis.ac.kr} \quad | \quad
+    \href{https://linkedin.com/in/lewiskwon}{linkedin.com/in/lewiskwon} \quad | \quad
+    ORCID: 0000-0002-0113-0179
+\end{center}
+
+\cvsection{Position}
+\cvline{Senior Deputy Director, Division of Infectious Disease Control, KDCA}{Aug. 2025--Present}
+
+\cvsection{Education}
+\cvitem{Ph.D. Public Policy, KDI School of Public Policy and Management}{2025}
+{\itshape Dissertation: Three Essays on Immunization: Impact, Perception, and the Decision-Making Process\par}
+\vspace{1pt}
+
+\cvitem{MBA, Rotterdam School of Management, Erasmus University}{2018}
+\cvitem{Master of Development Policy, KDI School of Public Policy and Management}{2017}
+\cvitem{B.A. Economics and English, Handong Global University}{2008}
+
+\cvsection{Fields of Expertise}
+Viral hepatitis elimination; immunization policy; adult vaccination; epidemic intelligence; surveillance-system integration; emergency response governance; vaccine hesitancy; public health decision-making; global health security capacity-building.
+
+
+\cvsection{Professional Experience}
+\role{Korea Disease Control and Prevention Agency (KDCA)}{2020--Present}{Senior Deputy Director / Deputy Director}
+\begin{itemize}
+    \item Lead national policy and strategic planning for viral hepatitis prevention and control aligned with WHO 2030 elimination goals.
+    \item Manage integration of hepatitis surveillance data and clinical datasets to strengthen early detection and public health outcomes.
+    \item Led major immunization and emergency-response functions, including rotavirus NIP introduction, COVID-19 risk assessment and 3T strategy, Mpox vaccination, and surveillance modernization.
+\end{itemize}
+
+\vspace{5pt}
+\role{Ministry of Health and Welfare}{2009--2020}{Assistant Director}
+\begin{itemize}
+    \item Managed infectious disease control planning, budget coordination, inter-government cooperation, and pandemic preparedness assessment.
+    \item Led or supported major response and policy functions for Ebola, MERS, infectious disease legislation, long-term care infection control, and international cooperation with WHO and UNICEF.
+    \item Executed quarantine, rapid testing, and vaccine-distribution functions during the H1N1 epidemic response.
+\end{itemize}
+
+\newpage
+
+\cvsection{Publications}
+\pubyear{2025}
+\begin{itemize}
+    \item \textbf{Kwon, S. L.}, \& Choi, S. W. (2025). Vaccination in the shadow of uncertainty: Exploring the links between government trust and COVID-19 vaccine acceptance. \textit{Human Vaccines \& Immunotherapeutics}, 21(1).
+    \item Kim, A. R., Achanwanga, C., Do, H. N., Jang, E. Y., Nam, Y., Cho, S., Kim, T., Jeong, H. S., Rhie, G. E., Oh, K., \textbf{Kwon, S. L.}, Lee, S., Lee, J., \& Ryu, S. (2025). Seroprevalence trends of antibodies to SARS-CoV-2 in South Korea, 2021--2022: A repeated cross-sectional study. \textit{Influenza and Other Respiratory Viruses}, 19(6), e70117.
+    \item Kang, S. K., \textbf{Kwon, S. L.}, et al. (2025). Trends and epidemiological characteristics of acute hepatitis B among foreign nationals in the Republic of Korea, 2014--2024. \textit{Public Health Weekly Report}, 18(44).
+    \item Kim, S. Y., Song, M., \& \textbf{Kwon, S. L.} (2025). Impact of caregiver vaccination status on child influenza vaccination hesitancy. \textit{Vaccine}, 49, 126852.
+    \item Kim, S. Y., Jeong, H. J., Ko, H., \textbf{Kwon, S. L.}, \& Lee, D. (2025). Strengthening national immunization program governance. \textit{Vaccine: X}, 24.
+\end{itemize}
+
+\pubyear{2024}
+\begin{itemize}
+    \item \textbf{Kwon, S. L.}, Kim, S. Y., Song, M., et al. (2024). Assessing the determinants of influenza and COVID-19 vaccine co-administration decisions in the elderly. \textit{Human Vaccines \& Immunotherapeutics}, 20(1).
+    \item \textbf{Kwon, S. L.}, Song, M., Lee, W., et al. (2024). First nationwide Mpox vaccination program in the Republic of Korea: Implications for an enhanced public health response. \textit{Journal of Korean Medical Science}, 39(32).
+    \item Kim, J., Song, M., Ahn, S., \& \textbf{Kwon, S. L.} (2024). Twenty years of progress and the way forward: Immunization registry information system in Korea. \textit{Journal of Korean Medical Science}, 39(12).
+    \item Cho, J., Kim, E. M., Kim, J., et al. (2024). Effect of the human papillomavirus vaccine on the risk of genital warts. \textit{Epidemiology and Health}, 46.
+\end{itemize}
+
+\pubyear{2023}
+\begin{itemize}
+    \item \textbf{Kwon, S. L.}, \& Kim, B. I. (2023). How COVID-19 shifted the seasonal flu in Korea. \textit{Influenza and Other Respiratory Viruses}, 17(3).
+    \item Lee, J., \textbf{Kwon, S. L.}, Park, J., et al. (2023). JYNNEOS vaccine safety monitoring in the Republic of Korea, 2022. \textit{Osong Public Health and Research Perspectives}, 14(5).
+    \item Kim, S. J., \textbf{Kwon, S. L.}, Lee, J. Y., et al. (2023). Why school is crucial to increase vaccination coverage for children. \textit{Vaccine}, 41(21).
+\end{itemize}
+
+\pubyear{2021--2022}
+\begin{itemize}
+    \item \textbf{Kwon, S. L.}, Ban, S., Shin, J., et al. (2022). Monkeypox vaccination in the Republic of Korea. \textit{Journal of Korean Medical Science}, 37(29).
+    \item \textbf{Kwon, S. L.}, \& Oh, J. (2022). COVID-19 vaccination program in South Korea: A long journey toward a new normal. \textit{Health Policy and Technology}, 11(2).
+\end{itemize}
+
+\cvsection{Invited Presentations and Lectures}
+\pubyear{2026}
+\begin{itemize}
+    \talkitem{Infectious Disease Characteristics and Countermeasures}{Speaker, \textit{Regional Safety Capacity Improvement Joint Workshop}, National Disaster Management Research Institute, Cheongju OSCO, Republic of Korea}{Mar. 2026}
+\end{itemize}
+
+\pubyear{2025}
+\begin{itemize}
+    \talkitem{Korea's Adult Immunization Strategy}{Speaker, \textit{Strengthening Adult Immunization Policy in APEC: Regional Alignment and Global Engagement}, IVI side event during the APEC High-Level Meeting on Health and the Economy and World Bio Summit 2025, Seoul, Republic of Korea}{Sep. 2025}
+    \talkitem{Strengthening Evidence-Based Vaccine Decision-Making}{Speaker, \textit{Vaccinology: Science and Public Health Symposium}, Nagasaki University / London School of Hygiene and Tropical Medicine / International Vaccine Institute, Nagasaki, Japan}{Sep. 2025}
+    \talkitem{Korea's National Immunization Policy}{lecturer, \textit{Lee Jong-wook Fellowship Infectious Disease Expert Course}, Korea University / Korea Foundation for International Healthcare, Seoul, Republic of Korea}{Aug. 2025}
+    \talkitem{Overcoming Vaccine Hesitancy}{lecturer, \textit{Global Training Hub for Biomanufacturing (GTH-B)}, International Vaccine Institute, Seoul, Republic of Korea}{Jun. 2025}
+\end{itemize}
+
+\pubyear{2024}
+\begin{itemize}
+    \talkitem{Communicating Science to the Public: Vaccine Hesitancy}{Speaker, \textit{ASEAN Vaccine Security and Self-Reliance (AVSSR) Vaccine Human Resource Development Program}, Bangkok, Thailand}{Sep. 2024}
+    \talkitem{Field-Based Competency Development for Public Officials}{lecturer, \textit{6th-grade Core Competency Enhancement Course} (Cohorts 1 and 2), Korea Human Resource Development Institute for Health and Welfare (KOHI), Osong, Republic of Korea}{Apr. and Sep. 2024}
+\end{itemize}
+
+\cvsection{Awards}
+KDCA Commissioner's Award \hfill 2025\\
+Order of Civil Merit by the President of Korea, Sierra Leone Ebola response contribution \hfill 2015\\
+Health and Welfare Minister's Award \hfill 2007
+
+\end{document}

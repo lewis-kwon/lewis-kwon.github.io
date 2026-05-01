@@ -1,0 +1,36 @@
+---
+title-block: false
+description: "권승현의 주요 논문."
+---
+
+::: {.language-switch}
+[English](../publications.qmd)
+:::
+
+# 주요 논문
+
+## 2025
+
+- **Kwon, S. L.**, & Choi, S. W. (2025). Vaccination in the shadow of uncertainty: Exploring the links between government trust and COVID-19 vaccine acceptance. *Human Vaccines & Immunotherapeutics*, 21(1).
+- Kim, A. R., Achanwanga, C., Do, H. N., Jang, E. Y., Nam, Y., Cho, S., Kim, T., Jeong, H. S., Rhie, G. E., Oh, K., **Kwon, S. L.**, Lee, S., Lee, J., & Ryu, S. (2025). Seroprevalence trends of antibodies to SARS-CoV-2 in South Korea, 2021-2022: A repeated cross-sectional study. *Influenza and Other Respiratory Viruses*, 19(6), e70117.
+- Kang, S. K., **Kwon, S. L.**, et al. (2025). Trends and epidemiological characteristics of acute hepatitis B among foreign nationals in the Republic of Korea, 2014-2024. *Public Health Weekly Report*, 18(44).
+- Kim, S. Y., Song, M., & **Kwon, S. L.** (2025). Impact of caregiver vaccination status on child influenza vaccination hesitancy. *Vaccine*, 49, 126852.
+- Kim, S. Y., Jeong, H. J., Ko, H., **Kwon, S. L.**, & Lee, D. (2025). Strengthening national immunization program governance. *Vaccine: X*, 24.
+
+## 2024
+
+- **Kwon, S. L.**, Kim, S. Y., Song, M., et al. (2024). Assessing the determinants of influenza and COVID-19 vaccine co-administration decisions in the elderly. *Human Vaccines & Immunotherapeutics*, 20(1).
+- **Kwon, S. L.**, Song, M., Lee, W., et al. (2024). First nationwide Mpox vaccination program in the Republic of Korea: Implications for an enhanced public health response. *Journal of Korean Medical Science*, 39(32).
+- Kim, J., Song, M., Ahn, S., & **Kwon, S. L.** (2024). Twenty years of progress and the way forward: Immunization registry information system in Korea. *Journal of Korean Medical Science*, 39(12).
+- Cho, J., Kim, E. M., Kim, J., et al. (2024). Effect of the human papillomavirus vaccine on the risk of genital warts. *Epidemiology and Health*, 46.
+
+## 2023
+
+- **Kwon, S. L.**, & Kim, B. I. (2023). How COVID-19 shifted the seasonal flu in Korea. *Influenza and Other Respiratory Viruses*, 17(3).
+- Lee, J., **Kwon, S. L.**, Park, J., et al. (2023). JYNNEOS vaccine safety monitoring in the Republic of Korea, 2022. *Osong Public Health and Research Perspectives*, 14(5).
+- Kim, S. J., **Kwon, S. L.**, Lee, J. Y., et al. (2023). Why school is crucial to increase vaccination coverage for children. *Vaccine*, 41(21).
+
+## 2021-2022
+
+- **Kwon, S. L.**, Ban, S., Shin, J., et al. (2022). Monkeypox vaccination in the Republic of Korea. *Journal of Korean Medical Science*, 37(29).
+- **Kwon, S. L.**, & Oh, J. (2022). COVID-19 vaccination program in South Korea: A long journey toward a new normal. *Health Policy and Technology*, 11(2).

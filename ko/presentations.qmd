@@ -1,0 +1,33 @@
+---
+title-block: false
+description: "권승현의 초청 발표 및 강의."
+---
+
+::: {.language-switch}
+[English](../presentations.qmd)
+:::
+
+# 초청 발표 및 강의
+
+## 2026
+
+- **Infectious Disease Characteristics and Countermeasures**  
+  Speaker, *Regional Safety Capacity Improvement Joint Workshop*, National Disaster Management Research Institute, Cheongju OSCO, Republic of Korea. Mar. 2026.
+
+## 2025
+
+- **Korea's Adult Immunization Strategy**  
+  Speaker, *Strengthening Adult Immunization Policy in APEC: Regional Alignment and Global Engagement*, IVI side event during the APEC High-Level Meeting on Health and the Economy and World Bio Summit 2025, Seoul, Republic of Korea. Sep. 2025.
+- **Strengthening Evidence-Based Vaccine Decision-Making**  
+  Speaker, *Vaccinology: Science and Public Health Symposium*, Nagasaki University / London School of Hygiene and Tropical Medicine / International Vaccine Institute, Nagasaki, Japan. Sep. 2025.
+- **Korea's National Immunization Policy**  
+  lecturer, *Lee Jong-wook Fellowship Infectious Disease Expert Course*, Korea University / Korea Foundation for International Healthcare, Seoul, Republic of Korea. Aug. 2025.
+- **Overcoming Vaccine Hesitancy**  
+  lecturer, *Global Training Hub for Biomanufacturing (GTH-B)*, International Vaccine Institute, Seoul, Republic of Korea. Jun. 2025.
+
+## 2024
+
+- **Communicating Science to the Public: Vaccine Hesitancy**  
+  Speaker, *ASEAN Vaccine Security and Self-Reliance (AVSSR) Vaccine Human Resource Development Program*, Bangkok, Thailand. Sep. 2024.
+- **Field-Based Competency Development for Public Officials**  
+  lecturer, *6th-grade Core Competency Enhancement Course* (Cohorts 1 and 2), Korea Human Resource Development Institute for Health and Welfare (KOHI), Osong, Republic of Korea. Apr. and Sep. 2024.
