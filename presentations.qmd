@@ -27,3 +27,11 @@ description: "Invited presentations and lectures by Lewis Kwon."
   Speaker, *ASEAN Vaccine Security and Self-Reliance (AVSSR) Vaccine Human Resource Development Program*, Bangkok, Thailand. Sep. 2024.
 - **Field-Based Competency Development for Public Officials**  
   lecturer, *6th-grade Core Competency Enhancement Course* (Cohorts 1 and 2), Korea Human Resource Development Institute for Health and Welfare (KOHI), Osong, Republic of Korea. Apr. and Sep. 2024.
+
+## Selected Photos
+
+::: {.talk-photos}
+![](images/talks/talk1.jpg){fig-alt="Invited presentation photo 1"}
+![](images/talks/talk2.jpg){fig-alt="Invited presentation photo 2"}
+![](images/talks/talk3.jpg){fig-alt="Invited presentation photo 3"}
+:::
