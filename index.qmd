@@ -15,7 +15,6 @@ I currently lead the Viral Hepatitis Prevention and Control team in support of t
 
 ::: {.button-row}
 [CV](files/cv-lewis-kwon-public.pdf){.btn .btn-primary}
-[Publications](publications.qmd){.btn .btn-outline-primary}
 [Contact](contact.qmd){.btn .btn-outline-primary}
 [한국어](ko/index.qmd){.btn .btn-outline-secondary}
 :::
