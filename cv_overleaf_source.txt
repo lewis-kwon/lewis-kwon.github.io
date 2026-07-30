@@ -105,8 +105,8 @@ Viral hepatitis elimination; immunization policy; adult vaccination; epidemic in
 \cvsection{Publications}
 \pubyear{2026}
 \begin{itemize}
-    \item \href{https://ojs.wpro.who.int/ojs/index.php/wpsar/article/view/1368}{\textbf{Kwon, S. L.}, Kang, S.-K., Lee, J., Lee, G., \& Lee, H. (2026). Maintaining infectious disease surveillance during a national IT outage: lessons from the Republic of Korea's 2025 data centre fire. \textit{Western Pacific Surveillance and Response Journal}, 16(5).}
     \item \href{https://www.sciencedirect.com/science/article/pii/S1876201826002662}{\textbf{Kwon, S. L.}, Shin, N., \& Park, C.-B. (2026). Adolescent suicide in South Korea: A sex-specific reversal and the need for targeted prevention policy. \textit{Asian Journal of Psychiatry}, 123, 105093.}
+    \item \href{https://ojs.wpro.who.int/ojs/index.php/wpsar/article/view/1368}{\textbf{Kwon, S. L.}, Kang, S.-K., Lee, J., Lee, G., \& Lee, H. (2026). Maintaining infectious disease surveillance during a national IT outage: lessons from the Republic of Korea's 2025 data centre fire. \textit{Western Pacific Surveillance and Response Journal}, 16(5).}
 \end{itemize}
 
 \pubyear{2025}
