@@ -6,6 +6,7 @@ project:
     - "ko/*.qmd"
   resources:
     - ".nojekyll"
+    - "CNAME"
 
 website:
   title: "Lewis Kwon"

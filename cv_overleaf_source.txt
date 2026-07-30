@@ -11,8 +11,8 @@
 \else
   \usepackage{fontspec}
   \usepackage{xeCJK}
-  \setmainfont{TeXGyreTermes}
-  \setCJKmainfont{Noto Serif CJK KR}
+  \setmainfont{Times New Roman}
+  \setCJKmainfont{Malgun Gothic}
   \newcommand{\kname}{권승현}
 \fi
 \usepackage{enumitem}
@@ -34,7 +34,7 @@
 
 \setlist[itemize]{leftmargin=1.35em, topsep=4pt, itemsep=3.5pt, parsep=0pt, partopsep=0pt}
 
-\newcommand{\updateddate}{May 2026}
+\newcommand{\updateddate}{July 2026}
 \newcommand{\cvsection}[1]{\Needspace{6\baselineskip}\section*{#1}}
 \newcommand{\cvitem}[2]{\textbf{#1} \hfill #2\par}
 \newcommand{\role}[3]{%
@@ -103,6 +103,12 @@ Viral hepatitis elimination; immunization policy; adult vaccination; epidemic in
 \newpage
 
 \cvsection{Publications}
+\pubyear{2026}
+\begin{itemize}
+    \item \href{https://ojs.wpro.who.int/ojs/index.php/wpsar/article/view/1368}{\textbf{Kwon, S. L.}, Kang, S.-K., Lee, J., Lee, G., \& Lee, H. (2026). Maintaining infectious disease surveillance during a national IT outage: lessons from the Republic of Korea's 2025 data centre fire. \textit{Western Pacific Surveillance and Response Journal}, 16(5).}
+    \item \href{https://www.sciencedirect.com/science/article/pii/S1876201826002662}{\textbf{Kwon, S. L.}, Shin, N., \& Park, C.-B. (2026). Adolescent suicide in South Korea: A sex-specific reversal and the need for targeted prevention policy. \textit{Asian Journal of Psychiatry}, 123, 105093.}
+\end{itemize}
+
 \pubyear{2025}
 \begin{itemize}
     \item \textbf{Kwon, S. L.}, \& Choi, S. W. (2025). Vaccination in the shadow of uncertainty: Exploring the links between government trust and COVID-19 vaccine acceptance. \textit{Human Vaccines \& Immunotherapeutics}, 21(1).

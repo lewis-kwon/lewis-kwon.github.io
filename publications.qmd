@@ -5,6 +5,11 @@ description: "Publications by Lewis Kwon."
 
 # Publications
 
+## 2026
+
+- [**Kwon, S. L.**, Kang, S.-K., Lee, J., Lee, G., & Lee, H. (2026). Maintaining infectious disease surveillance during a national IT outage: lessons from the Republic of Korea's 2025 data centre fire. *Western Pacific Surveillance and Response Journal*, 16(5).](https://ojs.wpro.who.int/ojs/index.php/wpsar/article/view/1368)
+- [**Kwon, S. L.**, Shin, N., & Park, C.-B. (2026). Adolescent suicide in South Korea: A sex-specific reversal and the need for targeted prevention policy. *Asian Journal of Psychiatry*, 123, 105093.](https://www.sciencedirect.com/science/article/pii/S1876201826002662)
+
 ## 2025
 
 - **Kwon, S. L.**, & Choi, S. W. (2025). Vaccination in the shadow of uncertainty: Exploring the links between government trust and COVID-19 vaccine acceptance. *Human Vaccines & Immunotherapeutics*, 21(1).
