@@ -142,6 +142,8 @@ Viral hepatitis elimination; immunization policy; adult vaccination; epidemic in
 \cvsection{Invited Presentations and Lectures}
 \pubyear{2026}
 \begin{itemize}
+    \talkitem{Infectious Disease Surveillance System: Data to Action}{Lecturer, \textit{Infectious Disease Specialist Course of the Lee Jong-wook Fellowship Program}, Korea University / GC Labs consortium, Seoul, Republic of Korea}{Jul. 2026}
+    \talkitem{Decision-Making Process for Hepatitis C Screening in Korea's National Health Screening System}{Speaker, \textit{The Liver Week 2026}, Seoul, Republic of Korea}{Jun. 2026}
     \talkitem{Infectious Disease Characteristics and Countermeasures}{Speaker, \textit{Regional Safety Capacity Improvement Joint Workshop}, National Disaster Management Research Institute, Cheongju OSCO, Republic of Korea}{Mar. 2026}
 \end{itemize}
 

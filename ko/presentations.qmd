@@ -11,6 +11,10 @@ description: "권승현의 초청 발표 및 강의."
 
 ## 2026
 
+- **Infectious Disease Surveillance System: Data to Action**  
+  Lecturer, *Infectious Disease Specialist Course of the Lee Jong-wook Fellowship Program*, Korea University / GC Labs consortium, Seoul, Republic of Korea. Jul. 2026.
+- **Decision-Making Process for Hepatitis C Screening in Korea's National Health Screening System**  
+  Speaker, *The Liver Week 2026*, Seoul, Republic of Korea. Jun. 2026.
 - **Infectious Disease Characteristics and Countermeasures**  
   Speaker, *Regional Safety Capacity Improvement Joint Workshop*, National Disaster Management Research Institute, Cheongju OSCO, Republic of Korea. Mar. 2026.
 
