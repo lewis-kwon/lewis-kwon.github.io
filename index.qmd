@@ -14,7 +14,7 @@ Sejong, Republic of Korea
 I currently lead the Viral Hepatitis Prevention and Control team in support of the WHO's 2030 elimination targets, drawing on hands-on experience in evidence-based vaccination strategy and public health response. My work centers on strengthening global health security through partnership and sound, evidence-informed policy—particularly in vaccine programs and infectious disease prevention. I also lecture regularly on infectious disease response, vaccine policy, and public health decision-making, and welcome inquiries from colleagues and institutions interested in these areas.
 
 ::: {.button-row}
-[CV](files/cv-lewis-kwon-public.pdf){.btn .btn-primary}
+[CV](files/cv-lewis-kwon-public.pdf?v=20260911){.btn .btn-primary}
 [Contact](contact.qmd){.btn .btn-outline-primary}
 [한국어](ko/index.qmd){.btn .btn-outline-secondary}
 :::

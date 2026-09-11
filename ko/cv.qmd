@@ -9,7 +9,7 @@ description: "권승현의 이력서."
 
 # CV
 
-[CV 다운로드](../files/cv-lewis-kwon-public.pdf){.btn .btn-primary}
+[CV 다운로드](../files/cv-lewis-kwon-public.pdf?v=20260911){.btn .btn-primary}
 
 ## 직위
 
