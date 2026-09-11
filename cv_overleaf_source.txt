@@ -1,7 +1,7 @@
 % !TEX program = xelatex
 \documentclass[11pt]{article}
 
-\usepackage[a4paper,margin=0.82in]{geometry}
+\usepackage[a4paper,margin=0.82in,top=0.7in,bottom=0.7in]{geometry}
 \usepackage{iftex}
 \ifPDFTeX
   \usepackage[T1]{fontenc}
@@ -34,7 +34,7 @@
 
 \setlist[itemize]{leftmargin=1.35em, topsep=4pt, itemsep=3.5pt, parsep=0pt, partopsep=0pt}
 
-\newcommand{\updateddate}{July 2026}
+\newcommand{\updateddate}{September 2026}
 \newcommand{\cvsection}[1]{\Needspace{6\baselineskip}\section*{#1}}
 \newcommand{\cvitem}[2]{\textbf{#1} \hfill #2\par}
 \newcommand{\role}[3]{%
