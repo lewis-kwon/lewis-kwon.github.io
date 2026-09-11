@@ -59,6 +59,9 @@ format:
     include-in-header:
       text: |
         <meta name="robots" content="index, follow">
+    include-after-body:
+      text: |
+        <script data-goatcounter="https://lewiskwon.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
 
 execute:
   freeze: auto

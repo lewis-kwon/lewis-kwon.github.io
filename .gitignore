@@ -1,2 +1,5 @@
 /.quarto/
 **/*.quarto_ipynb
+HANDOFF.md
+HANDOFF_*.md
+CLAUDE.md
