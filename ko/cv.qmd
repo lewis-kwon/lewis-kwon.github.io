@@ -9,7 +9,7 @@ description: "권승현의 이력서."
 
 # CV
 
-[CV 다운로드](../files/cv-lewis-kwon-public.pdf?v=20260911){.btn .btn-primary}
+[CV 다운로드](../files/cv-lewis-kwon-public.pdf?v=20261112){.btn .btn-primary}
 
 ## 직위
 
@@ -37,4 +37,5 @@ Viral hepatitis elimination; immunization policy; adult vaccination; epidemic in
 
 - KDCA Commissioner's Award, 2025
 - Order of Civil Merit by the President of Korea, Sierra Leone Ebola response contribution, 2015
+- [Kang, S.-K., **Kwon, S. L.**, Yu, J., Yang, S., Lee, H., Koh, D., Jang, H., & Lee, H. (2026). Results of the National Health Screening Program for Hepatitis C among 56-year-olds, Republic of Korea, 2025. *Public Health Weekly Report*, 19(28), 1148-1167.](https://doi.org/10.56786/PHWR.2026.19.28.2)
 - Health and Welfare Minister's Award, 2007
